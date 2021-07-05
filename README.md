@@ -26,8 +26,8 @@ code .
 
 ## Link da comunidade no discord
 ```bash
-    #Copie e cole este link no seu navegador
-    https://discord.com/channels/853354677411905578/855846897854971914
+#Copie e cole este link no seu navegador
+https://discord.com/channels/853354677411905578/855846897854971914
 ```
 
 &copy; MIT
