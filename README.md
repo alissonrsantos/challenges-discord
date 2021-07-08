@@ -9,18 +9,18 @@ Repositório criado para resolução dos desafios propostos na comunidade Codel�
 
 ## :wrench: Instalação e uso
 
-##### Abra o terminal e copie o repositório com o comando abaixo, em seguida execute-o
+##### Abra o terminal e clone o repositório com o comando abaixo, em seguida execute-o.
 ```bash
 git clone https://github.com/romaoaveiro/challengers-discord
 ```
 
 
-##### Entre na pasta com 
+##### Entre na pasta.
 ```bash
 cd challengers-discord
 ```
 
-##### Abra no Vscode
+##### Abra no Vscode.
 ```bash
 code . 
 ```
