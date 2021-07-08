@@ -2,8 +2,10 @@
 Repositório criado para resolução dos desafios propostos na comunidade Codelândia no Discord.
 
 ## Desafios
-    1°- Layout de um blog com animação
-    2°- Layout de uma loja de tênis com animação
+<ul>
+    <li>1°- Layout de um blog com animação</li>
+    <li>2°- Layout de uma loja de tênis com animação</li>
+</ul>
 
 ## :wrench: Instalação e uso
 
