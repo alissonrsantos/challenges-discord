@@ -3,11 +3,11 @@ Repositório criado para resolução dos desafios propostos na comunidade Codel�
 
 ## Desafios
     1°- Layout de um blog com animação
-    2°- Layout de uma loja de tênis
+    2°- Layout de uma loja de tênis com animação
 
 ## :wrench: Instalação e uso
 
-##### Abra um terminal e copie/cole este repositório com o comando ou use a opção de download.
+##### Abra o terminal e copie o repositório com o comando abaixo, em seguida execute-o
 ```bash
 git clone https://github.com/romaoaveiro/challengers-discord
 ```
