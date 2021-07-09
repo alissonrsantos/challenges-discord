@@ -1,4 +1,4 @@
-# Challengers-Discord
+# Challenges-Discord
 Repositório criado para resolução dos desafios propostos na comunidade Codelândia no Discord.
 
 ## Desafios
