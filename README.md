@@ -11,7 +11,7 @@ Repositório criado para resolução dos desafios propostos na comunidade Codel�
 
 ##### Abra o terminal e clone o repositório com o comando abaixo, em seguida execute-o.
 ```bash
-git clone https://github.com/romaoaveiro/challengers-discord
+git clone https://github.com/alissonrsantos/challengers-discord
 ```
 
 
